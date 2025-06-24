@@ -54,7 +54,7 @@ ACTIVITY_NAME=Minecraft
 
 ### 5. Start the bot
 
-node server.js
+npm start
 
 ## Usage
 
