@@ -28,13 +28,11 @@ A Discord bot built with Node.js and [discord.js](https://discord.js.org/) that 
 
 ### 1. Clone this repository
 
-```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 
 ### 2. Install dependencies
 
-```bash
 npm install
 
 ### 3. Configure environment variables
