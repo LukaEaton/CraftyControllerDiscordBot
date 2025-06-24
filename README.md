@@ -39,7 +39,6 @@ npm install
 
 Create a `.env` file in the root directory with:
 
-```env
 DISCORD_TOKEN=your-discord-bot-token
 CLIENT_ID=your-discord-client-id
 CRAFTY_API_URL=https://your-crafty-controller-url/api/v2
@@ -55,7 +54,6 @@ ACTIVITY_NAME=Minecraft
 
 ### 5. Start the bot
 
-```bash
 node server.js
 
 ## Usage
